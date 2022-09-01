@@ -1,7 +1,7 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 33242,
+    "stargazers_count": 33244,
     "open_issues_count": 381,
     "forks_count": 762
   },
@@ -44,19 +44,19 @@
   {
     "full_name": "python/cpython",
     "stargazers_count": 47179,
-    "open_issues_count": 8341,
-    "forks_count": 24036
+    "open_issues_count": 8342,
+    "forks_count": 24037
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 19450,
+    "stargazers_count": 19449,
     "open_issues_count": 332,
     "forks_count": 5153
   },
   {
     "full_name": "apple/swift",
     "stargazers_count": 60471,
-    "open_issues_count": 6063,
+    "open_issues_count": 6065,
     "forks_count": 9708
   },
   {
@@ -86,12 +86,12 @@
   {
     "full_name": "getsentry/sentry",
     "stargazers_count": 31864,
-    "open_issues_count": 611,
+    "open_issues_count": 614,
     "forks_count": 3569
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 352368,
+    "stargazers_count": 352367,
     "open_issues_count": 178,
     "forks_count": 29347
   }
