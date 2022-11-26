@@ -1,13 +1,13 @@
 [
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 55404,
-    "open_issues_count": 8621,
-    "forks_count": 9671
+    "stargazers_count": 55422,
+    "open_issues_count": 8595,
+    "forks_count": 9673
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 36253,
+    "stargazers_count": 36275,
     "open_issues_count": 411,
     "forks_count": 862
   },
@@ -15,6 +15,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 812,
     "open_issues_count": 10,
-    "forks_count": 447
+    "forks_count": 448
   }
 ]
