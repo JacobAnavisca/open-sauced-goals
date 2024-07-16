@@ -1,15 +1,15 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 71912,
-    "open_issues_count": 3280,
-    "forks_count": 2559
+    "stargazers_count": 72028,
+    "open_issues_count": 3320,
+    "forks_count": 2576
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 86700,
-    "open_issues_count": 12932,
-    "forks_count": 19381
+    "stargazers_count": 86812,
+    "open_issues_count": 13072,
+    "forks_count": 19429
   },
   {
     "full_name": "denoland/deno-lambda",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "yemount/pose-animator",
-    "stargazers_count": 8717,
+    "stargazers_count": 8720,
     "open_issues_count": 50,
     "forks_count": 962
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 27084,
-    "open_issues_count": 524,
-    "forks_count": 5662
+    "stargazers_count": 27116,
+    "open_issues_count": 533,
+    "forks_count": 5671
   },
   {
     "full_name": "FriendsOfPHP/Goutte",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 60964,
-    "open_issues_count": 8634,
-    "forks_count": 29427
+    "stargazers_count": 61134,
+    "open_issues_count": 8670,
+    "forks_count": 29505
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 21760,
-    "open_issues_count": 415,
-    "forks_count": 5288
+    "stargazers_count": 21763,
+    "open_issues_count": 416,
+    "forks_count": 5292
   },
   {
     "full_name": "Glimpse/Glimpse",
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 22720,
-    "open_issues_count": 75,
-    "forks_count": 8595
+    "stargazers_count": 22730,
+    "open_issues_count": 80,
+    "forks_count": 8607
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 37559,
-    "open_issues_count": 2560,
-    "forks_count": 4041
+    "stargazers_count": 37581,
+    "open_issues_count": 2574,
+    "forks_count": 4042
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 393676,
-    "open_issues_count": 239,
-    "forks_count": 36193
+    "stargazers_count": 394013,
+    "open_issues_count": 246,
+    "forks_count": 36222
   }
 ]
