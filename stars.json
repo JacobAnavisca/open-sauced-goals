@@ -1,15 +1,15 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 76413,
-    "open_issues_count": 4399,
-    "forks_count": 2940
+    "stargazers_count": 76475,
+    "open_issues_count": 4411,
+    "forks_count": 2949
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 94431,
-    "open_issues_count": 14752,
-    "forks_count": 21759
+    "stargazers_count": 94541,
+    "open_issues_count": 14803,
+    "forks_count": 21787
   },
   {
     "full_name": "denoland/deno-lambda",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 29378,
-    "open_issues_count": 489,
-    "forks_count": 6289
+    "stargazers_count": 29405,
+    "open_issues_count": 490,
+    "forks_count": 6298
   },
   {
     "full_name": "FriendsOfPHP/Goutte",
-    "stargazers_count": 9249,
+    "stargazers_count": 9253,
     "open_issues_count": 138,
-    "forks_count": 1006
+    "forks_count": 1005
   },
   {
     "full_name": "imanseau/Cloud9-PHP7-Upgrade",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 65454,
-    "open_issues_count": 9016,
-    "forks_count": 31196
+    "stargazers_count": 65501,
+    "open_issues_count": 9012,
+    "forks_count": 31221
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 22390,
-    "open_issues_count": 435,
-    "forks_count": 5367
+    "stargazers_count": 22393,
+    "open_issues_count": 439,
+    "forks_count": 5369
   },
   {
     "full_name": "Glimpse/Glimpse",
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 23651,
-    "open_issues_count": 84,
-    "forks_count": 8949
+    "stargazers_count": 23664,
+    "open_issues_count": 98,
+    "forks_count": 8956
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 40090,
-    "open_issues_count": 2360,
-    "forks_count": 4268
+    "stargazers_count": 40125,
+    "open_issues_count": 2359,
+    "forks_count": 4271
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 410432,
-    "open_issues_count": 239,
-    "forks_count": 39032
+    "stargazers_count": 410544,
+    "open_issues_count": 267,
+    "forks_count": 39056
   }
 ]
