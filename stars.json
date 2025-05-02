@@ -1,15 +1,15 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 77733,
-    "open_issues_count": 4794,
-    "forks_count": 3045
+    "stargazers_count": 77780,
+    "open_issues_count": 4822,
+    "forks_count": 3053
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 96676,
-    "open_issues_count": 15300,
-    "forks_count": 22250
+    "stargazers_count": 96764,
+    "open_issues_count": 15338,
+    "forks_count": 22283
   },
   {
     "full_name": "denoland/deno-lambda",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30190,
-    "open_issues_count": 500,
-    "forks_count": 6473
+    "stargazers_count": 30203,
+    "open_issues_count": 499,
+    "forks_count": 6476
   },
   {
     "full_name": "FriendsOfPHP/Goutte",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 66624,
-    "open_issues_count": 9053,
-    "forks_count": 31731
+    "stargazers_count": 66671,
+    "open_issues_count": 9076,
+    "forks_count": 31764
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 22562,
-    "open_issues_count": 431,
-    "forks_count": 5410
+    "stargazers_count": 22568,
+    "open_issues_count": 434,
+    "forks_count": 5411
   },
   {
     "full_name": "Glimpse/Glimpse",
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 23896,
-    "open_issues_count": 99,
-    "forks_count": 9049
+    "stargazers_count": 23907,
+    "open_issues_count": 102,
+    "forks_count": 9055
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 40712,
-    "open_issues_count": 2473,
-    "forks_count": 4331
+    "stargazers_count": 40728,
+    "open_issues_count": 2453,
+    "forks_count": 4333
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 417255,
-    "open_issues_count": 293,
-    "forks_count": 39943
+    "stargazers_count": 417392,
+    "open_issues_count": 280,
+    "forks_count": 39971
   }
 ]
