@@ -1,15 +1,15 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 78737,
-    "open_issues_count": 4934,
-    "forks_count": 3162
+    "stargazers_count": 78777,
+    "open_issues_count": 4969,
+    "forks_count": 3169
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 98292,
-    "open_issues_count": 15584,
-    "forks_count": 22660
+    "stargazers_count": 98386,
+    "open_issues_count": 15582,
+    "forks_count": 22687
   },
   {
     "full_name": "denoland/deno-lambda",
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "yemount/pose-animator",
-    "stargazers_count": 8759,
+    "stargazers_count": 8762,
     "open_issues_count": 51,
-    "forks_count": 972
+    "forks_count": 973
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30612,
-    "open_issues_count": 455,
-    "forks_count": 6607
+    "stargazers_count": 30622,
+    "open_issues_count": 454,
+    "forks_count": 6610
   },
   {
     "full_name": "FriendsOfPHP/Goutte",
-    "stargazers_count": 9246,
+    "stargazers_count": 9245,
     "open_issues_count": 138,
     "forks_count": 1001
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 67607,
-    "open_issues_count": 9197,
-    "forks_count": 32197
+    "stargazers_count": 67649,
+    "open_issues_count": 9216,
+    "forks_count": 32216
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 22710,
-    "open_issues_count": 445,
+    "stargazers_count": 22714,
+    "open_issues_count": 442,
     "forks_count": 5434
   },
   {
@@ -61,32 +61,32 @@
   },
   {
     "full_name": "betterspecs/betterspecs",
-    "stargazers_count": 3470,
+    "stargazers_count": 3469,
     "open_issues_count": 32,
     "forks_count": 285
   },
   {
     "full_name": "peek/peek",
-    "stargazers_count": 3181,
+    "stargazers_count": 3182,
     "open_issues_count": 18,
     "forks_count": 147
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 24108,
+    "stargazers_count": 24116,
     "open_issues_count": 83,
-    "forks_count": 9074
+    "forks_count": 9075
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 41164,
-    "open_issues_count": 2436,
-    "forks_count": 4375
+    "stargazers_count": 41195,
+    "open_issues_count": 2431,
+    "forks_count": 4377
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 421451,
-    "open_issues_count": 311,
-    "forks_count": 40532
+    "stargazers_count": 421632,
+    "open_issues_count": 317,
+    "forks_count": 40563
   }
 ]
