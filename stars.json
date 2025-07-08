@@ -1,15 +1,15 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 78912,
-    "open_issues_count": 4941,
-    "forks_count": 3176
+    "stargazers_count": 78980,
+    "open_issues_count": 4976,
+    "forks_count": 3180
   },
   {
     "full_name": "godotengine/godot",
-    "stargazers_count": 98572,
-    "open_issues_count": 15622,
-    "forks_count": 22729
+    "stargazers_count": 98700,
+    "open_issues_count": 15698,
+    "forks_count": 22745
   },
   {
     "full_name": "denoland/deno-lambda",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30680,
-    "open_issues_count": 451,
-    "forks_count": 6623
+    "stargazers_count": 30691,
+    "open_issues_count": 442,
+    "forks_count": 6629
   },
   {
     "full_name": "FriendsOfPHP/Goutte",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 67719,
-    "open_issues_count": 9197,
-    "forks_count": 32250
+    "stargazers_count": 67757,
+    "open_issues_count": 9207,
+    "forks_count": 32273
   },
   {
     "full_name": "ruby/ruby",
-    "stargazers_count": 22723,
-    "open_issues_count": 447,
-    "forks_count": 5433
+    "stargazers_count": 22730,
+    "open_issues_count": 457,
+    "forks_count": 5436
   },
   {
     "full_name": "Glimpse/Glimpse",
-    "stargazers_count": 2318,
+    "stargazers_count": 2316,
     "open_issues_count": 68,
     "forks_count": 414
   },
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "jenkinsci/jenkins",
-    "stargazers_count": 24127,
-    "open_issues_count": 87,
-    "forks_count": 9080
+    "stargazers_count": 24142,
+    "open_issues_count": 80,
+    "forks_count": 9083
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 41250,
+    "stargazers_count": 41272,
     "open_issues_count": 2474,
-    "forks_count": 4380
+    "forks_count": 4382
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 422019,
+    "stargazers_count": 422219,
     "open_issues_count": 310,
-    "forks_count": 40619
+    "forks_count": 40659
   }
 ]
